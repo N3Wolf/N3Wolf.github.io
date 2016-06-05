@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Template/Users/login.ctp</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Template/Layout/default.ctp</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Controller/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Controller/InformationsController.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Model/Table/InformationsTable.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Template/Pages/home_original.ctp</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Template/Pages/home.ctp</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Template/Informations/tags.ctp</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/View/AppView.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/webroot/index.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/config/bootstrap.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Controller/PagesController.php</file>
+            <file>file:/C:/xampp/htdocs/epolitica/src/Controller/AppController.php</file>
+        </group>
+    </open-files>
+</project-private>
